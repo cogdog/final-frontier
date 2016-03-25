@@ -1,4 +1,4 @@
-# final-frontier
+# The Not So Final Frontier in GitHubness
 *a space (with no trek) for experimenting with GitHUb as a work space*
 
 ![pseudo trek](https://upload.wikimedia.org/wikipedia/commons/f/f4/Star_Trek_uniforms.jpg "not quite trek")
