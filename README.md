@@ -1,18 +1,18 @@
-# About
-This is a Github pages theme based on Twitter Bootstrap for your Github projects
-# Demo:
-http://robertcedwards.github.io/gh-pages-theme/
+# The Not So Final Frontier in GitHubness
+*a space (with no trek) for experimenting with GitHUb as a work space*
 
-# License
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+![pseudo trek](https://upload.wikimedia.org/wikipedia/commons/f/f4/Star_Trek_uniforms.jpg "not quite trek")
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/gpl.html>.
+This would be the place where code and stuff lives. Other parts to be added, linked etc might be:
+
+* A public web site created with a Jekyll type theme
+* A [gitter](https://gitter.im/) for chat
+* A [waffle](https://waffle.io/) for public status of project work
+* A [huboard](https://huboard.com/) or maybe a [ZenHub](https://www.zenhub.io/) for project managament
+* Some Slack/Rocketchat integration
+* And always, some [puppies](http://openpuppies.com)
+
+# Theme
+Based on Twitter Bootstrap for  Github  http://robertcedwards.github.io/gh-pages-theme/
+
