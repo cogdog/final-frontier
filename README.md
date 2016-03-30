@@ -3,10 +3,11 @@
 
 ![pseudo trek](https://upload.wikimedia.org/wikipedia/commons/f/f4/Star_Trek_uniforms.jpg "not quite trek")
 
+Public entrance is http://cogdog.github.io/final-frontier/
 
 This would be the place where code and stuff lives. Other parts to be added, linked etc might be:
 
-* A public web site created with a Jekyll type theme
+* A public web site created with a responsive type theme (from <a href="https://github.com/cogdog/pechaflickr">HTML5UP</a> Creative Commons licensed themes)
 * A [gitter](https://gitter.im/) for chat
 * A [waffle](https://waffle.io/) for public status of project work
 * A [huboard](https://huboard.com/) or maybe a [ZenHub](https://www.zenhub.io/) for project managament
