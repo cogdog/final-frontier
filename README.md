@@ -1,4 +1,6 @@
 # The Not So Final Frontier in GitHubness
+
+[![Join the chat at https://gitter.im/cogdog/final-frontier](https://badges.gitter.im/cogdog/final-frontier.svg)](https://gitter.im/cogdog/final-frontier?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *a space (with no trek) for experimenting with GitHUb as a work space*
 
 ![pseudo trek](https://upload.wikimedia.org/wikipedia/commons/f/f4/Star_Trek_uniforms.jpg "not quite trek")
